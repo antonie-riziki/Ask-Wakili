@@ -13,7 +13,7 @@ folium
 google-generativeai
 streamlit-folium
 streamlit-audiorec
-folium
+sys
 tempfile
 langchain
 langchain-community
