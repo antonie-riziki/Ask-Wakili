@@ -30,7 +30,7 @@ with st.sidebar:
         with st.spinner("Refreshing chat... Please wait."):
             st.success("Chat refreshed successfully!")
 
-uploaded_files = st.file_uploader('Upload Technical Drawing', accept_multiple_files=True)
+uploaded_files = st.file_uploader('Upload Document [Pdf/Csv]', accept_multiple_files=True)
 
 if uploaded_files:
     for uploaded_file in uploaded_files:
