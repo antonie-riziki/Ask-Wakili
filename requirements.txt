@@ -14,3 +14,8 @@ google-generativeai
 streamlit-folium
 streamlit-audiorec
 folium
+tempfile
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
